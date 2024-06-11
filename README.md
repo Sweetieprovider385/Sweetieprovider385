@@ -140,12 +140,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:marquisewoods03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/x34eoSxECJ3z" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/silver0909" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/HZ9eUYGh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
-  
 </p>
