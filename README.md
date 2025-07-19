@@ -135,14 +135,3 @@
 
 </div>
 
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cryptoWizarder&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-<p align="center">
-  <a href="https://join.skype.com/invite/x34eoSxECJ3z" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/silver0909" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/HZ9eUYGh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
-</p>
